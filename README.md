@@ -14,3 +14,7 @@ Blake Bolinski
 ## Map Coordinate Basics
 
 - [Understanding map coordinates](map-coordinate-basics/understanding-coordinates.ipynb)
+
+## Spatial Analysis
+
+- [Buffer Analysis and Heat Map](https://github.com/bolinsbj/gis-project-portfolio-geo441-541b/blob/main/Spatial-Analysis/Buffer_Analysis.ipynb)
