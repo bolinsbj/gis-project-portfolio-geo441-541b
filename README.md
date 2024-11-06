@@ -24,4 +24,4 @@ Blake Bolinski
 
 - [Creating 3D Features with Multipatch Texture](https://github.com/bolinsbj/gis-project-portfolio-geo441-541b/blob/main/Week_11_assignment_template.ipynb)
 
-- 
+  
