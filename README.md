@@ -25,3 +25,7 @@ Blake Bolinski
 - [Creating 3D Features with Multipatch Texture](https://github.com/bolinsbj/gis-project-portfolio-geo441-541b/blob/main/Week_11_assignment_template.ipynb)
 
   
+## Remote Sensoring Basics 
+
+- [Creating Band Composite ](https://github.com/bolinsbj/gis-project-portfolio-geo441-541b/blob/main/remote_sensoring_basics/Copy_of_geo441_541_understand_band_composite.ipynb) 
+  
