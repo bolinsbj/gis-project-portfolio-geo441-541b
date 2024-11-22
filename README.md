@@ -29,3 +29,6 @@ Blake Bolinski
 
 - [Creating Band Composite ](https://github.com/bolinsbj/gis-project-portfolio-geo441-541b/blob/main/remote_sensoring_basics/Copy_of_geo441_541_understand_band_composite.ipynb) 
   
+## Census Data 
+
+- [Creating Census Data for Age Pop in Ohio ](https://github.com/bolinsbj/gis-project-portfolio-geo441-541b/blob/main/Copy_of_week_12_assignment_template.ipynb) 
