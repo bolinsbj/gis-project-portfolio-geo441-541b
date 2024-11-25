@@ -18,17 +18,14 @@ Blake Bolinski
 ## Spatial Analysis
 
 - [Buffer Analysis and Heat Map](https://github.com/bolinsbj/gis-project-portfolio-geo441-541b/blob/main/Spatial-Analysis/Buffer_Analysis.ipynb)
+- [Creating 3D Features with Multipatch Texture](https://github.com/bolinsbj/gis-project-portfolio-geo441-541b/blob/main/Spatial-Analysis/3DMapping_in_SF.ipynb)
+- [Mapping Colera in London 3D Vector Model](https://github.com/bolinsbj/gis-project-portfolio-geo441-541b/blob/main/Spatial-Analysis/Mapping_Colera_in_London_.ipynb)
+- [Creating Census Data for Age Pop in Ohio ](https://github.com/bolinsbj/gis-project-portfolio-geo441-541b/blob/main/Spatial-Analysis/Mapping_census_tract_data.ipynb) 
 
-
-## SF 3D Mapping 
-
-- [Creating 3D Features with Multipatch Texture](https://github.com/bolinsbj/gis-project-portfolio-geo441-541b/blob/main/Week_11_assignment_template.ipynb)
 
   
 ## Remote Sensoring Basics 
 
 - [Creating Band Composite ](https://github.com/bolinsbj/gis-project-portfolio-geo441-541b/blob/main/remote_sensoring_basics/Copy_of_geo441_541_understand_band_composite.ipynb) 
   
-## Census Data 
 
-- [Creating Census Data for Age Pop in Ohio ](https://github.com/bolinsbj/gis-project-portfolio-geo441-541b/blob/main/Copy_of_week_12_assignment_template.ipynb) 
