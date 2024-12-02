@@ -22,7 +22,7 @@ Blake Bolinski
 - [Mapping Colera in London 3D Vector Model](https://github.com/bolinsbj/gis-project-portfolio-geo441-541b/blob/main/Spatial-Analysis/Mapping_Colera_in_London_.ipynb)
 - [Creating Census Data for Age Pop in Ohio ](https://github.com/bolinsbj/gis-project-portfolio-geo441-541b/blob/main/Spatial-Analysis/Mapping_census_tract_data.ipynb)
 - [Creating Census Tract Data for Age Pop in Ohio ](https://github.com/bolinsbj/gis-project-portfolio-geo441-541b/blob/main/Spatial-Analysis/Mapping_census_tract_data.ipynb)
-- [Mapping Census Tract Data for Age Pop in Ohio ](https://github.com/bolinsbj/gis-project-portfolio-geo441-541b/blob/main/Spatial-Analysis/Mapping_census_tract_data.ipynb)
+- [Mapping Census Tract Data for Age Pop in Ohio ](https://github.com/bolinsbj/gis-project-portfolio-geo441-541b/blob/main/Spatial-Analysis/MappingCensusTract.ipynb)
 
   
 ## Remote Sensoring Basics 
